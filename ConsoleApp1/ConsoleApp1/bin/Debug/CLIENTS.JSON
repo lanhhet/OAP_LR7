@@ -1,0 +1,29 @@
+[
+ {
+            "Fio": "Matthew McConaughey",
+            "Age": "46",
+            "Gender": "m",
+            "City": "NY",
+            "Street": "58Av.",
+            "HouseNumber": "12",
+            "AppartmentNumber": "55",
+            "AccountNumberCumul": "152346638246",
+            "AccountBalanceCumul": "46331",
+            "DepPercent": "15",
+            "AccountNumberCur": "042346695667",
+            "AccountBalanceCur": "2254",
+            "CurrenceCode": "USD",
+            "AccountNumberSettl": "5156324652097",
+            "AccountBalanceSettl": "4325",
+            "Company": "ZAO Belvest",
+            "AccountNumberTot": "2957905752097",
+            "AccountBalanceTot": "442424",
+            "OwnersQtt": "2",
+            "CardNumberDebet": "2342-45622-2535",
+            "PinCodeEncryptedDebet": "4244",
+            "DailyOpersLimt": "57",
+            "CardNumberCredit": "2760-273554-445",
+            "PinCodeEncryptedCredit": "3464",
+            "CreditAmount": "7562"
+  }
+]
